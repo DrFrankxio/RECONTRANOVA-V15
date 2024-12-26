@@ -1,11 +1,3 @@
-Controles:
-
-WASD para moverse.
-
-Q para pegar.
-
-
-
 Uso:
 
 1.- Descargar e instalar nodejs. Si no está instalado, ir a: `https://nodejs.org/es`.
@@ -20,4 +12,8 @@ Uso:
 
 6.- Abrir `>localhost:8000` o por la ip del servidor sobre el q se esté ejecutando este programa `192.168.XXX.XXX`.
 
-7.- Quien tenga esta herramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
+7.- WASD para moverse.
+
+8.- Q para pegar.
+
+9.- Quien tenga esta herramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
