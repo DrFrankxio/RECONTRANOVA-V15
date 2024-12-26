@@ -16,4 +16,6 @@ Uso:
 
 8.- Q para pegar.
 
-9.- Quien tenga esta herramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
+9.- Ratón para apuntar.
+
+10.- Quien tenga esta herramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
